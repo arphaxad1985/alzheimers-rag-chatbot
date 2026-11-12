@@ -43,3 +43,9 @@ python 1_fetch_papers.py
 python 2_chunk_papers.py
 python 3_create_vector_db.py
 streamlit run app.py
+
+## Attribution
+
+Starter pipeline structure adapted from an open-source facial 
+expression recognition project. Model training (28,000+ images), 
+detection pipeline, and deployment implemented by Arphaxad Nguka Owange.
